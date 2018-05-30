@@ -1,4 +1,4 @@
-# user.js
+# user.js - BANANAS AND ORANGES
 
 **Firefox configuration hardening**
 
